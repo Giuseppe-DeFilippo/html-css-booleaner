@@ -6,6 +6,8 @@ body {
   header {
     background-image: url(../img/pattern.png);
    background-color: blue;
-   
   }
- 
+ #logo{
+    background-image: url(../img/logo.svg);
+    
+ }
