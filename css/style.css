@@ -2,12 +2,19 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }
-  header {
+}
+
+header {
     background-image: url(../img/pattern.png);
-   background-color: blue;
-  }
- #logo{
+    background-color: blue;
+    background-size: 27%; 
+    height: 120px;
+
+}
+
+#logo {
     background-image: url(../img/logo.svg);
-    
- }
+    background-position: left bottom ;
+    background-repeat: no-repeat;
+    height: 50px;
+}
