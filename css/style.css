@@ -46,6 +46,18 @@ td, tr{
   padding-left: 0px;
   padding-right: 40px;
 }
-.foto{
+#foto{
     background-image:url(../img/monitor.jpg) ;
+    background-size: 20%; 
+    height: 200px;
+    background-repeat: no-repeat;
+}
+#foto2{
+    background-image:url(../img/graph.jpg) ;
+    background-size: 20%; 
+    height: 200px;
+    background-repeat: no-repeat;
+}
+h3{
+    color: white;
 }
